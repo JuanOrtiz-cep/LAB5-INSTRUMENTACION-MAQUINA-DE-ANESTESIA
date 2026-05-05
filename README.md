@@ -1,162 +1,206 @@
 # LAB5-INSTRUMENTACION-MAQUINA-DE-ANESTESIA
+# Práctica de Laboratorio: Máquina de Anestesia WATO EX-20
 
-Práctica de Laboratorio: Máquina de Anestesia WATO EX-20
-Descripción
+## Descripción
 
 Esta práctica se desarrolló con base en el manual de operación y servicio de la máquina de anestesia WATO EX-20 (Mindray). El objetivo fue comprender su funcionamiento, identificar sus subsistemas, analizar fallas comunes y documentar el proceso mediante una herramienta colaborativa.
 
-PARTE A – Fundamento Teórico
-a. Tipos de anestesia
+---
+
+## PARTE A – Fundamento Teórico
+
+### a. Tipos de anestesia
 
 Los tipos de anestesia comúnmente utilizados son:
 
-Anestesia general: Produce pérdida total de la conciencia. En el contexto de la WATO EX-20, se administra mediante agentes inhalatorios controlados por el sistema de respiración.
-Anestesia regional: Bloquea la sensibilidad en una región específica del cuerpo. Puede requerir soporte ventilatorio proporcionado por la máquina.
-Anestesia local: Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.
+- **Anestesia general:** Produce pérdida total de la conciencia. En el contexto de la WATO EX-20, se administra mediante agentes inhalatorios controlados por el sistema de respiración.
+- **Anestesia regional:** Bloquea la sensibilidad en una región específica del cuerpo. Puede requerir soporte ventilatorio proporcionado por la máquina.
+- **Anestesia local:** Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.
 
 En la práctica con la WATO EX-20, el enfoque principal es la anestesia general inhalatoria.
 
-b. Gases utilizados
+---
+
+### b. Gases utilizados
 
 La máquina WATO EX-20 trabaja con los siguientes gases:
 
-Oxígeno (O₂): indispensable para la respiración del paciente.
-Óxido nitroso (N₂O): proporciona efecto analgésico y anestésico.
-Aire medicinal: permite ajustar la mezcla de gases de forma segura.
+- Oxígeno (O₂): indispensable para la respiración del paciente.  
+- Óxido nitroso (N₂O): proporciona efecto analgésico y anestésico.  
+- Aire medicinal: permite ajustar la mezcla de gases de forma segura.  
 
-Los gases de oxígeno y óxido nitroso pueden suministrarse mediante cilindros de alta presión, los cuales están conectados a manómetros que permiten monitorear su estado.
+Los gases de oxígeno y óxido nitroso pueden suministrarse mediante cilindros de alta presión.
 
-c. Sistema de respiración
+---
+
+### c. Sistema de respiración
 
 El sistema de respiración está compuesto por válvulas inspiratorias y espiratorias, sensores, circuito respiratorio, absorbedor de CO₂ y el fuelle del ventilador.
 
-Sus funciones principales son:
+Funciones:
 
-Suministrar la mezcla de gases anestésicos al paciente.
-Eliminar el dióxido de carbono del aire exhalado.
-Permitir ventilación controlada o asistida.
+- Suministrar la mezcla de gases anestésicos  
+- Eliminar el dióxido de carbono  
+- Permitir ventilación controlada o asistida  
 
-Los componentes que pueden esterilizarse en autoclave incluyen el circuito respiratorio, la bolsa manual y algunos tubos, según indicaciones del fabricante.
+Componentes autoclavables:
 
-d. Modos del ventilador
+- Circuito respiratorio  
+- Bolsa manual  
+- Tubos  
 
-De acuerdo con el manual de la WATO EX-20, los modos principales son:
+---
 
-VCV (Ventilación controlada por volumen)
-PCV (Ventilación controlada por presión)
-Modo manual
+### d. Modos del ventilador
 
-El equipo no maneja submenús como tal, sino modos configurables desde el panel de control.
+Modos principales:
 
-La función de pausa inspiratoria no se presenta como una opción independiente explícita, sino que depende de la configuración del ventilador en los modos mecánicos.
+- VCV (Ventilación controlada por volumen)  
+- PCV (Ventilación controlada por presión)  
+- Modo manual  
 
-PARTE B – Identificación de Componentes
-1. Componentes principales
-a. Vaporizador
+No existen submenús como tal, sino modos configurables.
 
-Permite la vaporización controlada de agentes anestésicos como sevoflurano, isoflurano y desflurano. El sistema incluye un mecanismo de interbloqueo que impide la activación simultánea de más de un vaporizador.
+---
 
-b. Válvula APL
+## PARTE B – Identificación de Componentes
 
-La válvula de límite de presión ajustable regula la presión del sistema respiratorio durante la ventilación manual, liberando el exceso de gas cuando se supera el valor establecido.
+### 1. Componentes principales
 
-c. Recipiente absorbente de CO₂
+#### a. Vaporizador
+Permite la vaporización controlada de agentes anestésicos.
 
-Contiene cal sodada, la cual elimina el dióxido de carbono del aire exhalado, permitiendo la recirculación de gases dentro del sistema.
+#### b. Válvula APL
+Regula la presión del sistema respiratorio en ventilación manual.
 
-d. Fuelle
+#### c. Recipiente absorbente de CO₂
+Elimina el CO₂ mediante cal sodada.
 
-Es el componente mecánico del ventilador que se expande y contrae para generar el flujo de aire necesario para la ventilación del paciente.
+#### d. Fuelle
+Elemento mecánico que permite la ventilación.
 
-2. Mensaje “batería en uso”
+---
 
-Cuando el equipo muestra este mensaje, indica que está funcionando con su batería interna.
+### 2. Mensaje “batería en uso”
 
-La acción recomendada es verificar la conexión a la red eléctrica, garantizar la continuidad del soporte ventilatorio sin desconectar al paciente y preparar una fuente de respaldo.
+Indica funcionamiento con batería interna.
 
-3. Reemplazo del absorbente de CO₂
+Acciones:
 
-El reemplazo del absorbente debe realizarse cuando se detecte un aumento en los niveles de CO₂ inspirado o espirado, o cuando el material indique saturación. El manual no establece un tiempo fijo, ya que depende del uso clínico.
+- Verificar conexión eléctrica  
+- Mantener soporte ventilatorio  
+- Preparar respaldo  
 
-4. Verificación de fugas en el cilindro de alta presión
+---
 
-El procedimiento consiste en:
+### 3. Reemplazo del absorbente de CO₂
 
-Abrir la válvula del cilindro.
-Observar la presión en el manómetro.
-Cerrar la válvula.
-Verificar si existe una caída de presión, lo cual indicaría una fuga.
-5. Sensor de oxígeno
+Debe cambiarse cuando:
 
-El sensor de O₂ permite medir la concentración real de oxígeno en la mezcla suministrada al paciente.
+- Aumenta el CO₂  
+- Se satura el material  
 
-Su presencia mejora la seguridad del sistema, ya que permite detectar errores en la mezcla de gases. Sin el sensor, el equipo solo controla el flujo, pero no verifica la concentración real.
+---
 
-6. Sistema de presión negativa
+### 4. Verificación de fugas
 
-El sistema de evacuación de gases anestésicos evita la acumulación de gases en el entorno clínico, protegiendo al personal médico de la exposición a agentes anestésicos.
+Pasos:
 
-PARTE C – Procedimiento
-Pasos realizados
-Revisión del manual de operación de la WATO EX-20.
-Identificación de los componentes principales del equipo.
-Encendido y configuración inicial.
-Ajuste de los gases y selección del agente anestésico.
-Configuración del modo ventilatorio.
-Realización de pruebas funcionales:
-Prueba de fugas
-Prueba de flujo
-Verificación del sistema de oxígeno
-Observación de alarmas y monitoreo de parámetros.
-Documentación del proceso en GitHub.
-Resultados
+1. Abrir cilindro  
+2. Observar presión  
+3. Cerrar válvula  
+4. Verificar caída de presión  
 
-Al finalizar la práctica se logró:
+---
 
-Identificar los módulos principales de la máquina de anestesia.
-Comprender los modos de ventilación disponibles.
-Ejecutar pruebas de funcionamiento basadas en el manual.
-Reconocer alarmas y su significado.
-Documentar adecuadamente el proceso mediante una plataforma colaborativa.
-Análisis de Resultados
-Análisis 1: Fallas comunes
+### 5. Sensor de oxígeno
 
-Las fallas más frecuentes incluyen:
+Permite medir la concentración real de O₂ y mejora la seguridad del sistema.
 
-Fugas en el sistema de gases.
-Fallas en el vaporizador.
-Problemas en el sensor de oxígeno.
-Saturación del absorbente de CO₂.
-Fallas eléctricas.
-Análisis 2: Subsistemas con mayor número de fallas
+---
 
-Ordenados de mayor a menor:
+### 6. Sistema de presión negativa
 
-Sistema de gases
-Sistema respiratorio
-Vaporizador
-Sistema electrónico
-Conclusiones
+Evita acumulación de gases anestésicos en el entorno.
 
-Las fallas más comunes en la máquina de anestesia están relacionadas con el sistema de gases y la presencia de fugas, lo cual puede comprometer la seguridad del paciente.
+---
 
-El sensor de oxígeno es un componente crítico para garantizar una adecuada administración de la mezcla gaseosa. Asimismo, el mantenimiento preventivo y la correcta ejecución de pruebas antes de su uso son fundamentales para evitar eventos adversos.
+## PARTE C – Procedimiento
 
-Preguntas para la Discusión
-1. Tipos de anestésicos más usados
+### Pasos realizados
 
-Los anestésicos más utilizados en cirugía incluyen sevoflurano, isoflurano y desflurano, debido a su control y rápida acción.
+1. Revisión del manual  
+2. Identificación de componentes  
+3. Configuración del equipo  
+4. Pruebas de funcionamiento  
+5. Monitoreo  
+6. Documentación en GitHub  
 
-2. Diferencias entre WATO EX-20 y EX-35
+---
 
-El modelo EX-35 presenta mejoras en:
+## Resultados
 
-Mayor número de modos ventilatorios.
-Interfaz más avanzada.
-Mejor monitoreo y automatización.
-Bibliografía (Formato IEEE)
+- Identificación de módulos  
+- Comprensión de ventilación  
+- Ejecución de pruebas  
+- Reconocimiento de alarmas  
 
-[1] Mindray, WATO EX-20/30 Operation Manual, 2009.
-[2] Mindray, WATO EX-20/30/35 Service Manual, 2013.
-[3] M. P. Dosch, The Anesthesia Machine, Elsevier, 2005.
-[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards: What is the role of the anesthesia machine?”, International Anesthesiology Clinics, vol. 58, no. 1, pp. 27–31, 2020.
+---
+
+## Análisis de Resultados
+
+### Análisis 1: Fallas comunes
+
+- Fugas  
+- Fallas en vaporizador  
+- Problemas en sensor O₂  
+- Saturación de CO₂  
+
+---
+
+### Análisis 2: Subsistemas con más fallas
+
+1. Sistema de gases  
+2. Sistema respiratorio  
+3. Vaporizador  
+4. Electrónica  
+
+---
+
+## Conclusiones
+
+Las fallas más comunes están relacionadas con fugas y manejo de gases. El sensor de oxígeno es crítico para la seguridad del paciente.
+
+---
+
+## Preguntas para la Discusión
+
+### 1. Anestésicos más usados
+
+- Sevoflurano  
+- Isoflurano  
+- Desflurano  
+
+---
+
+### 2. Diferencias EX-20 vs EX-35
+
+- Más modos ventilatorios  
+- Mejor interfaz  
+- Mayor automatización  
+
+---
+
+## Bibliografía (IEEE)
+
+[1] Mindray, *WATO EX-20/30 Operation Manual*, 2009.  
+[2] Mindray, *WATO EX-20/30/35 Service Manual*, 2013.  
+[3] M. P. Dosch, *The Anesthesia Machine*, Elsevier, 2005.  
+[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards…”, 2020.  
+
+---
+
+## Autor
+
+Juan  
+Ingeniería Biomédica  
