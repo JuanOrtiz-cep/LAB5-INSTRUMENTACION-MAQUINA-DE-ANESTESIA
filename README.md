@@ -3,69 +3,68 @@
 
 ## Descripción
 
-Esta práctica se desarrolló con base en el manual de operación y servicio de la máquina de anestesia WATO EX-20 (Mindray). El objetivo fue comprender su funcionamiento, identificar sus subsistemas, analizar fallas comunes y documentar el proceso mediante una herramienta colaborativa.
+En la siguiente práctica se desarrolla con base en el manual de operación y servicio de la máquina de anestesia WATO EX-20 (Mindray). El objetivo es comprender su funcionamiento, identificar sus subsistemas, analizar fallas comunes y documentar el proceso mediante una herramienta colaborativa.
 
----
 
-## PARTE A – Fundamento Teórico
+## OBJETIVOS:
+Objetivo General: Familiarizar al estudiante con los componentes,
+funcionamiento y labores de mantenimiento de una máquina de anestesia.
+Objetivos Específicos
 
-### a. Tipos de anestesia
+• Identificar las partes principales de una máquina de anestesia WATO EX-20.
+
+• Comprender el funcionamiento y modos de operación de una máquina de
+anestesia.
+• Reconocer la relevancia de las labores de mantenimiento aplicadas a una
+máquina de anestesia.
+
+## PARTE A
+En utilización del service manual de la máquina de anestesia WATO EX-20 se responden las siguientes preguntas:
+
+## a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía? Explique cada uno.
 
 Los tipos de anestesia comúnmente utilizados son:
 
-- **Anestesia general:** Produce pérdida total de la conciencia. En el contexto de la WATO EX-20, se administra mediante agentes inhalatorios controlados por el sistema de respiración.
-- **Anestesia regional:** Bloquea la sensibilidad en una región específica del cuerpo. Puede requerir soporte ventilatorio proporcionado por la máquina.
-- **Anestesia local:** Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.
+- Anestesia general: Produce pérdida total de la conciencia. En el contexto de la WATO EX-20, se administra mediante agentes inhalatorios controlados por el sistema de respiración.
+- Anestesia regional: Bloquea la sensibilidad en una región específica del cuerpo. Puede requerir soporte ventilatorio proporcionado por la máquina.
+- Anestesia local: Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.
+---
+## b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante sistema de alta presión?
 
-En la práctica con la WATO EX-20, el enfoque principal es la anestesia general inhalatoria.
+La máquina WATO EX-20 trabaja con Oxígeno (O₂), el cual es indispensable para la respiración del paciente, también utiliza Óxido nitroso (N₂O) que proporciona efecto analgésico y anestésico y el aire medicinal que permite ajustar la mezcla de gases de forma segura.  
+Por medio de sistema de alta presión se pueden incorporar el oxígeno y óxido nitroso.
 
 ---
+## c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
 
-### b. Gases utilizados
+El sistema de respiración está compuesto por válvulas inspiratorias y espiratorias, sensores, circuito respiratorio, absorbedor de CO₂ y el fuelle del ventilador. Sus funciones son suministrar la mezcla de gases anestésicos, eliminar el dióxido de carbono  y permitir ventilación controlada o asistida.
 
-La máquina WATO EX-20 trabaja con los siguientes gases:
-
-- Oxígeno (O₂): indispensable para la respiración del paciente.  
-- Óxido nitroso (N₂O): proporciona efecto analgésico y anestésico.  
-- Aire medicinal: permite ajustar la mezcla de gases de forma segura.  
-
-Los gases de oxígeno y óxido nitroso pueden suministrarse mediante cilindros de alta presión.
-
+FALTA RESPUESTAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ---
 
-### c. Sistema de respiración
+## d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 
-El sistema de respiración está compuesto por válvulas inspiratorias y espiratorias, sensores, circuito respiratorio, absorbedor de CO₂ y el fuelle del ventilador.
-
-Funciones:
-
-- Suministrar la mezcla de gases anestésicos  
-- Eliminar el dióxido de carbono  
-- Permitir ventilación controlada o asistida  
-
-Componentes autoclavables:
-
-- Circuito respiratorio  
-- Bolsa manual  
-- Tubos  
-
----
-
-### d. Modos del ventilador
-
-Modos principales:
+Los modos principales son tres y son:
 
 - VCV (Ventilación controlada por volumen)  
 - PCV (Ventilación controlada por presión)  
-- Modo manual  
+- Modo manual
 
-No existen submenús como tal, sino modos configurables.
+FAAAALTAAAAAAAAAAAAAAAAAAAAAAAAA RESPUESTA
+
+## e. ¿Cuál es el tipo de bomba de infusión que usa la bomba de anestesia?
+
+
 
 ---
 
-## PARTE B – Identificación de Componentes
+## PARTE B
 
-### 1. Componentes principales
+### 1.Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
+a. Vaporizador
+b. Válvula APL
+c. Recipiente absorbente de CO2
+d. Fuelle Componentes principales
 
 #### a. Vaporizador
 Permite la vaporización controlada de agentes anestésicos.
@@ -79,9 +78,10 @@ Elimina el CO₂ mediante cal sodada.
 #### d. Fuelle
 Elemento mecánico que permite la ventilación.
 
+AMPLIACIÓN XDDD
 ---
 
-### 2. Mensaje “batería en uso”
+### 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse? Mensaje “batería en uso”
 
 Indica funcionamiento con batería interna.
 
@@ -90,19 +90,16 @@ Acciones:
 - Verificar conexión eléctrica  
 - Mantener soporte ventilatorio  
 - Preparar respaldo  
+MIRAR XD
+---
+
+### 3.¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
+
+Debe cambiarse cuando aumenta el CO₂ ó cuando satura el material. 
 
 ---
 
-### 3. Reemplazo del absorbente de CO₂
-
-Debe cambiarse cuando:
-
-- Aumenta el CO₂  
-- Se satura el material  
-
----
-
-### 4. Verificación de fugas
+## 4¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
 
 Pasos:
 
@@ -111,85 +108,50 @@ Pasos:
 3. Cerrar válvula  
 4. Verificar caída de presión  
 
+VERIFICAR XD
 ---
 
-### 5. Sensor de oxígeno
+### 5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
 
-Permite medir la concentración real de O₂ y mejora la seguridad del sistema.
-
----
-
-### 6. Sistema de presión negativa
-
-Evita acumulación de gases anestésicos en el entorno.
+Si, ya que permite medir la concentración real de O₂ y mejora la seguridad del sistema.
 
 ---
 
-## PARTE C – Procedimiento
+### 6. ¿Para qué se requiere el sistema de presión negativa?
 
-### Pasos realizados
+El sistema de presión negativa evita la acumulación de gases anestésicos en el entorno.
 
-1. Revisión del manual  
+---
+
+## PARTE C
+
+### Desarrollo de la práctica
+
+1. Inspección práctica del equipo
 2. Identificación de componentes  
-3. Configuración del equipo  
-4. Pruebas de funcionamiento  
-5. Monitoreo  
-6. Documentación en GitHub  
+3. Revisión del manual    
+4. Exploración de la configuración y modos de equipo  
+5. Documentación en GitHub
 
 ---
 
-## Resultados
+## PREGUNTAS PARA LA DISCUSIÓN
+• Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
 
-- Identificación de módulos  
-- Comprensión de ventilación  
-- Ejecución de pruebas  
-- Reconocimiento de alarmas  
+• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-
+20?
 
----
-
-## Análisis de Resultados
-
-### Análisis 1: Fallas comunes
-
-- Fugas  
-- Fallas en vaporizador  
-- Problemas en sensor O₂  
-- Saturación de CO₂  
-
----
-
-### Análisis 2: Subsistemas con más fallas
-
-1. Sistema de gases  
-2. Sistema respiratorio  
-3. Vaporizador  
-4. Electrónica  
-
----
+## Análisis de Resultados Y FOTOS
+13. ANÁLISIS DE RESULTADOS
+• Análisis 1: Revise sobre las fallas que pueden presentarse en el
+funcionamiento de alguno de los subsistemas que componen la máquina de
+anestesia, así como lo que las produce.
+• Análisis 2: Ordene cada subsistema de la máquina en función del número
+de fallas asociadas a este (de mayor a menor,) de acuerdo con la
+información suministrada por el manual de operación.
 
 ## Conclusiones
 
-Las fallas más comunes están relacionadas con fugas y manejo de gases. El sensor de oxígeno es crítico para la seguridad del paciente.
-
----
-
-## Preguntas para la Discusión
-
-### 1. Anestésicos más usados
-
-- Sevoflurano  
-- Isoflurano  
-- Desflurano  
-
----
-
-### 2. Diferencias EX-20 vs EX-35
-
-- Más modos ventilatorios  
-- Mejor interfaz  
-- Mayor automatización  
-
----
 
 ## Bibliografía (IEEE)
 
@@ -200,7 +162,3 @@ Las fallas más comunes están relacionadas con fugas y manejo de gases. El sens
 
 ---
 
-## Autor
-
-Juan  
-Ingeniería Biomédica  
