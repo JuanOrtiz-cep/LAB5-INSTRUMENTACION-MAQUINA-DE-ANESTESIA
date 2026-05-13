@@ -49,7 +49,7 @@ En el manual de la WATO EX-20 los elementos específicos que se pueden identific
 
 <img width="284" height="111" alt="image" src="https://github.com/user-attachments/assets/3276d458-4270-4c1e-9917-e78f208ff032" />
 
-Imagen extraida del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
 
 ---
 
@@ -79,7 +79,7 @@ En la máquina de anestesia WATO EX-20, el menú del ventilador se divide en 5 s
 
 <img width="275" height="294" alt="image" src="https://github.com/user-attachments/assets/09a33142-02ba-45be-aadd-9c29ea4991cf" />
 
-Imagen extraida del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
 
 # 4. Monitoreo o gráficos-Monitoring/Waveforms.
    Muestra información de curvas de presión, flujo, volumen y los valores respiratorios medidos en tiempo real.
@@ -127,7 +127,7 @@ Se encuentra en la parte frontal del sistema respiratorio, normalmente debajo de
 
 <img width="788" height="788" alt="image" src="https://github.com/user-attachments/assets/79e9d3db-bb7d-4601-a9a2-8731da930df1" />
 
-Imágen extraída de https://www.medicalexpo.es/prod/shandong-dolphinmed-technology/product-298715-1037223.html?utm_source=chatgpt.com
+Imagen extraída de https://www.medicalexpo.es/prod/shandong-dolphinmed-technology/product-298715-1037223.html?utm_source=chatgpt.com
 
 Función:
 Contiene cal sodada u otro material absorbente que elimina el dióxido de carbono (CO₂) del aire exhalado por el paciente, permitiendo reutilizar parte de los gases anestésicos y evitar reinhalación de CO₂.
@@ -143,14 +143,26 @@ El fuelle es el componente mecánico que se expande y comprime para impulsar los
 
 ### 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse? Mensaje “batería en uso”
 
-Indica funcionamiento con batería interna.
+Si en la máquina de anestesia WATO EX-20 aparece el mensaje "batería en uso”, significa que el equipo está funcionando con la batería interna debido a una falla o desconexión de la alimentación eléctrica principal. 
 
-Acciones:
+<img width="522" height="218" alt="image" src="https://github.com/user-attachments/assets/49f679e3-fade-4892-98cb-299a865d1d33" />
 
-- Verificar conexión eléctrica  
-- Mantener soporte ventilatorio  
-- Preparar respaldo  
-MIRAR XD
+Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+
+En dicho caso inmediatamente se debe solucionar el problema.
+
+1. Verificar inmediatamente la conexión eléctrica de la máquina:
+
+   * Revisar el cable de alimentación.
+   * Confirmar que el tomacorriente tenga energía.
+   * Revisar interruptores o fusibles.
+
+2. Conectar nuevamente la máquina a la red eléctrica para evitar que la batería se descargue.
+
+3. Monitorear continuamente al paciente y al ventilador, verificando que la ventilación siga funcionando correctamente y no vuelva a saltar la alarma.
+
+4. Si no puede restablecerse la energía se debe reparar ventilación manual con bolsa reservorio y considerar trasladar al paciente a otro equipo funcional.
+
 ---
 
 ### 3.¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
