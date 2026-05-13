@@ -7,7 +7,9 @@ En la siguiente práctica se desarrolla con base en el manual de operación y se
 
 
 ## OBJETIVOS:
-Objetivo General: Familiarizar al estudiante con los componentes,
+Objetivo General: 
+
+Familiarizar al estudiante con los componentes,
 funcionamiento y labores de mantenimiento de una máquina de anestesia.
 Objetivos Específicos
 
@@ -38,6 +40,17 @@ Por medio de sistema de alta presión se pueden incorporar el oxígeno y óxido 
 ## c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su función? ¿Qué partes de este sistema podrían esterilizarse por medio de autoclave?
 
 El sistema de respiración está compuesto por válvulas inspiratorias y espiratorias, sensores, circuito respiratorio, absorbedor de CO₂ y el fuelle del ventilador. Sus funciones son suministrar la mezcla de gases anestésicos, eliminar el dióxido de carbono  y permitir ventilación controlada o asistida.
+
+"Autoclavable" es un adjetivo que significa esterilizable en autoclave, describiendo instrumentos, materiales o recipientes capaces de resistir altas temperaturas, vapor y presión sin dañarse. Es esencial verificar que los materiales sean compatibles para asegurar la destrucción efectiva de microorganismos.
+
+Las partes que se pueden esterilizar en autoclave son aquellas desmontables y resistentes al calor y presión, especialmente las que tienen contacto directo con el paciente. Entre ellas estan: los tubos corrugados del circuito respiratorio,bolsa reservorio, conectores, adaptadores, válvulas desmontables
+
+En el manual de la WATO EX-20 los elementos específicos que se pueden identificar como autoclavables o no llevan la siguiente simbología:
+
+<img width="284" height="111" alt="image" src="https://github.com/user-attachments/assets/3276d458-4270-4c1e-9917-e78f208ff032" />
+
+
+
 
 FALTA RESPUESTAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ---
