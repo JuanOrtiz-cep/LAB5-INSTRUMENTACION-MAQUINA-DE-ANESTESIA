@@ -169,29 +169,60 @@ En dicho caso inmediatamente se debe solucionar el problema.
 
 Debe cambiarse cuando aumenta el CO₂ ó cuando satura el material. 
 
+El recipiente absorbente de CO₂ de la máquina de anestesia WATO EX-20 debe reemplazarse cuando el material absorbente, o sea la cal sodada, se agote o pierda efectividad. Se recomienda revisarlo antes de cada procedimiento y durante el uso continuo de la máquina. Las señales importantes son:
+* Cambio de color del absorbente según el indicador químico.
+* Aumento del CO₂ inspirado o espirado en el monitor.
+* Disminución de la capacidad de absorción.
+* Endurecimiento o resequedad de la cal sodada.
+
+De igual forma se debe realizar un mantenimiento preventivo relacionado con el recipiente absorbente de CO₂, cada 12 meses, según el manual para las máquinas de anestesia WATO EX-25/30/35. Este consiste en el cambio y mantenimiento de diferentes componentes de sellado del recipiente.
+
 ---
 
 ## 4¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
 
-Pasos:
+### Se utiliza la prueba de fuga de alta presión del cilindro:
 
-1. Abrir cilindro  
-2. Observar presión  
-3. Cerrar válvula  
-4. Verificar caída de presión  
+1. Asegúrese de que el interruptor del sistema esté en posición de apagado.
 
-VERIFICAR XD
+2. Cierre el flujómetro de suministro auxiliar de O₂ si el suministro auxiliar de O₂ está configurado.
+
+3. Gire completamente en sentido horario todas las perillas de control de flujo (flujo mínimo).
+
+4. Abra la válvula del cilindro.
+
+5. Registre la presión actual del cilindro.
+
+6. Cierre la válvula del cilindro.
+
+7. Registre la presión del cilindro después de un minuto. Existe una fuga:
+
+   * Si la presión del cilindro para el gas de accionamiento disminuye más de 5000 kPa (725 psi).
+   * Si la presión del cilindro para el gas que no es de accionamiento disminuye más de 600 kPa (100 psi).
+
+   En estos casos, instale una nueva junta del cilindro y repita los pasos del 1 al 6. Si la fuga continúa, no utilice el sistema.
+
+8. Repita la prueba de fuga de alta presión del cilindro para cada cilindro.
+
+
+<img width="455" height="382" alt="image" src="https://github.com/user-attachments/assets/5f6e8e24-ec40-471f-b3b4-b3647b883a3e" />
+
+Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+
 ---
 
 ### 5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
 
-Si, ya que permite medir la concentración real de O₂ y mejora la seguridad del sistema.
+Sí, el sensor de O₂ influye en la prueba del sistema de control de flujo de la máquina de anestesia WATO EX-20, porque este sensor permite verificar que la concentración real de oxígeno entregada por el sistema coincida con la configurada en los flujómetros o controles de mezcla de gases.
+
+Con sensor de O₂ instalado y funcionando la máquina puede medir continuamente la concentración de oxígeno inspirada. Durante la prueba se puede comprobar la exactitud del flujo de O₂, correcto funcionamiento de las válvulas de control, mezcla adecuada de gases, activación de alarmas de baja concentración de O₂.
+Sin sensor de O₂ o con el sensor dañado el sistema no puede confirmar la concentración real de oxígeno administrada, solo podría verificarse el flujo de manera mecánica o visual en los flujómetros y no funcionarían adecuadamente las alarmas de concentración baja de O₂ y existiría mayor riesgo de administrar mezclas hipóxicas.
 
 ---
 
 ### 6. ¿Para qué se requiere el sistema de presión negativa?
 
-El sistema de presión negativa evita la acumulación de gases anestésicos en el entorno.
+El sistema de presión negativa en una máquina de anestesia WATO EX-20 tiene como función principal extraer y evacuar los gases anestésicos sobrantes del circuito respiratorio para evitar que se acumulen en el ambiente del quirófano. Dicho sistema trabaja generando una presión menor que la atmosférica, lo que “succiona” los gases exhalados y los dirige hacia un sistema de evacuación o scavenging.
 
 ---
 
@@ -210,9 +241,69 @@ El sistema de presión negativa evita la acumulación de gases anestésicos en e
 ## PREGUNTAS PARA LA DISCUSIÓN
 • Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
 
+Los anestésicos más utilizados en cirugía se dividen principalmente en dos grupos:
+
+1. Anestésicos inhalatorios: estos son administrados mediante la máquina de anestesia y el sistema respiratorio, se utilizan para mantener la anestesia durante la cirugía. Los más usados son:
+
+Sevoflurano
+Isoflurano
+Desflurano
+Óxido nitroso
+
+2. Anestésicos intravenosos
+
+Se administran por vía intravenosa para inducir o mantener la anestesia. Los más comunes son:
+
+Propofol
+Ketamina
+Midazolam
+Fentanilo
+
+También existen la anestesia local, regional, epidural y raquídea, dependiendo del procedimiento quirúrgico.
+
 • Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-
 20?
 
+Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están relacionadas con las capacidades de monitoreo, ventilación y funciones avanzadas.
+
+| Característica             | WATO EX-20                                  | WATO EX-35                                          |
+| -------------------------- | ------------------------------------------- | --------------------------------------------------- |
+| Nivel del equipo           | Básico / estándar                           | Más avanzado                                        |
+| Uso principal              | Cirugías generales y procedimientos básicos | Procedimientos complejos y monitoreo avanzado       |
+| Modos de ventilación       | Menor cantidad de modos ventilatorios       | Más modos ventilatorios y funciones avanzadas       |
+| Monitoreo respiratorio     | Básico                                      | Más completo y detallado                            |
+| Pantalla                   | Interfaz más sencilla                       | Pantalla más moderna y con más información          |
+| Gráficas y curvas          | Limitadas                                   | Gráficas respiratorias más avanzadas                |
+| Automatización             | Menor automatización                        | Mayor automatización y compensaciones inteligentes  |
+| Precisión ventilatoria     | Adecuada para uso estándar                  | Mayor precisión en ventilación                      |
+| Monitoreo de gases         | Opciones básicas                            | Monitoreo más avanzado de gases anestésicos         |
+| Capacidad de configuración | Menor cantidad de parámetros                | Más opciones de configuración clínica               |
+| Funciones avanzadas        | Limitadas                                   | Incluye herramientas respiratorias adicionales      |
+| Costo                      | Más económico                               | Más costoso                                         |
+| Complejidad de uso         | Más sencillo de operar                      | Requiere mayor entrenamiento                        |
+| Aplicación clínica         | Hospitales y procedimientos estándar        | Quirófanos de alta complejidad y cuidados avanzados |
+
+
+La WATO EX-35 es más avanzada
+Equipo más avanzado.
+Mayor cantidad de modos ventilatorios.
+Mejor monitoreo gráfico y análisis respiratorio.
+Pantalla más completa y funciones inteligentes.
+Puede incluir:
+ventilación más precisa,
+compensación automática,
+monitoreo avanzado de gases,
+mejores opciones de almacenamiento y configuración.
+WATO EX-20
+Modelo más básico y orientado a funciones esenciales.
+Menor cantidad de modos de ventilación.
+Monitoreo más sencillo.
+Menos automatización y herramientas avanzadas.
+
+En resumen:
+
+El EX-20 está diseñado para necesidades anestésicas estándar.
+El EX-35 ofrece funciones más avanzadas para procedimientos complejos y monitoreo más completo del paciente.
 ## Análisis de Resultados Y FOTOS
 13. ANÁLISIS DE RESULTADOS
 • Análisis 1: Revise sobre las fallas que pueden presentarse en el
