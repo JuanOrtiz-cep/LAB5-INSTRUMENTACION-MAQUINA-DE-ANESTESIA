@@ -114,12 +114,20 @@ El vaporizador convierte el anestésico líquido (como sevoflurano o isoflurano)
 Ubicación:
 Está situada en el circuito respiratorio, generalmente cerca de la bolsa reservorio y del sistema manual de ventilación.
 
+<img width="3000" height="2888" alt="image" src="https://github.com/user-attachments/assets/2e797b73-275f-4a8f-a3de-bdcbfafc0f0d" />
+
+Imagen extrída de https://technicallibrary.midmark.com/Anesthesia/SR/Anesthesia-SR-00017.htm?TocPath=Animal+Health%7CAnesthesia%7C%7CAnesthesia+Machines%7CAnesthesia+Tubing+Diagram%7C_____3&utm_source=chatgpt.com
+
 Función:
 La válvula APL regula la presión dentro del circuito respiratorio durante la ventilación manual. Permite liberar el exceso de gases para evitar presiones peligrosas en los pulmones del paciente.
 
 #### c. Recipiente absorbente de CO₂
 Ubicación:
 Se encuentra en la parte frontal del sistema respiratorio, normalmente debajo del circuito del paciente.
+
+<img width="788" height="788" alt="image" src="https://github.com/user-attachments/assets/79e9d3db-bb7d-4601-a9a2-8731da930df1" />
+
+Imágen extraída de https://www.medicalexpo.es/prod/shandong-dolphinmed-technology/product-298715-1037223.html?utm_source=chatgpt.com
 
 Función:
 Contiene cal sodada u otro material absorbente que elimina el dióxido de carbono (CO₂) del aire exhalado por el paciente, permitiendo reutilizar parte de los gases anestésicos y evitar reinhalación de CO₂.
@@ -131,7 +139,6 @@ Está dentro del módulo ventilador de la máquina, usualmente protegido por una
 Función:
 El fuelle es el componente mecánico que se expande y comprime para impulsar los gases respiratorios hacia el paciente durante la ventilación mecánica. Su movimiento permite visualizar el funcionamiento del ventilador y el volumen respiratorio administrado.
 
-AMPLIACIÓN XDDD
 ---
 
 ### 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse? Mensaje “batería en uso”
