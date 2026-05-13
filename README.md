@@ -255,10 +255,13 @@ Desflurano
 
 Se administran por vía intravenosa para inducir o mantener la anestesia. Los más comunes son:
 
-Propofol
-Ketamina
-Midazolam
-Fentanilo
+-Propofol
+
+-Ketamina
+
+-Midazolam
+
+-Fentanilo
 
 https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
 
@@ -266,26 +269,11 @@ https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-
 
 También existen la anestesia local, regional, epidural y raquídea, dependiendo del procedimiento quirúrgico.
 
-• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-
-20?
+• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
 
 Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están relacionadas con las capacidades de monitoreo, ventilación y funciones avanzadas.
 
-Característica	WATO EX-20	WATO EX-35
-Nivel del equipo	Básico / estándar	Más avanzado
-Uso principal	Cirugías generales y procedimientos básicos	Procedimientos complejos y monitoreo avanzado
-Modos de ventilación	Menor cantidad de modos ventilatorios	Más modos ventilatorios y funciones avanzadas
-Monitoreo respiratorio	Básico	Más completo y detallado
-Pantalla	Interfaz más sencilla	Pantalla más moderna y con más información
-Gráficas y curvas	Limitadas	Gráficas respiratorias más avanzadas
-Automatización	Menor automatización	Mayor automatización y compensaciones inteligentes
-Precisión ventilatoria	Adecuada para uso estándar	Mayor precisión en ventilación
-Monitoreo de gases	Opciones básicas	Monitoreo más avanzado de gases anestésicos
-Capacidad de configuración	Menor cantidad de parámetros	Más opciones de configuración clínica
-Funciones avanzadas	Limitadas	Incluye herramientas respiratorias adicionales
-Costo	Más económico	Más costoso
-Complejidad de uso	Más sencillo de operar	Requiere mayor entrenamiento
-Aplicación clínica	Hospitales y procedimientos estándar	Quirófanos de alta complejidad y cuidados avanzados
+<img width="505" height="707" alt="image" src="https://github.com/user-attachments/assets/7e38b4fb-6055-4198-b2ab-4c63f0c04a10" />
 
 
 -https://www.mindray.com/en
@@ -296,30 +284,11 @@ Aplicación clínica	Hospitales y procedimientos estándar	Quirófanos de alta c
 • Análisis 1: Revise sobre las fallas que pueden presentarse en el funcionamiento de alguno de los subsistemas que componen la máquina de anestesia, así como lo que las produce.
 
 
-Subsistema	Posibles fallas	Causas principales
-Sistema de suministro de gases	Baja presión de O₂, fugas de gas, ausencia de flujo	Cilindros vacíos, conexiones defectuosas, mangueras dañadas, reguladores averiados
-Sistema de control de flujo	Flujo incorrecto de gases	Mal calibración, obstrucciones, daño en válvulas o flujómetros
-Vaporizador	Concentración incorrecta de anestésico	Fugas, llenado inadecuado, daño mecánico, mala calibración
-Sistema respiratorio	Fugas en el circuito, presión inadecuada	Tubos desconectados, sellos dañados, válvula APL defectuosa
-Absorbedor de CO₂	Reinhalación de CO₂	Cal sodada agotada, sellos deteriorados, mala instalación del recipiente
-Ventilador / fuelle	Ventilación insuficiente o excesiva	Fugas neumáticas, falla del fuelle, sensores dañados
-Sensores y monitoreo	Alarmas falsas o ausencia de alarmas	Sensor de O₂ defectuoso, fallas electrónicas, desconexiones
-Sistema eléctrico	Apagado inesperado, batería en uso	Fallas eléctricas, batería descargada, cable desconectado
-Sistema de evacuación de gases	Acumulación de gases anestésicos	Obstrucción del scavenging, presión negativa insuficiente
 <img width="505" height="713" alt="image" src="https://github.com/user-attachments/assets/45607c84-cd4b-4fba-ba94-b143796395e6" />
-
 
 
 • Análisis 2: Ordene cada subsistema de la máquina en función del número de fallas asociadas a este (de mayor a menor,) de acuerdo con la información suministrada por el manual de operación.
 
-Orden	Subsistema	Motivo
-1	Sistema respiratorio y ventilador	Presenta múltiples pruebas de fugas, presión, volumen, apnea y ventilación
-2	Sistema de monitoreo y alarmas	Incluye alarmas de presión, apnea, volumen minuto y concentración de O₂
-3	Sistema de suministro de gases	Requiere pruebas de presión alta y baja, fugas y control de gases
-4	Absorbedor de CO₂	Problemas relacionados con sellos, fugas y agotamiento del absorbente
-5	Vaporizador	Riesgo de fugas y errores en concentración anestésica
-6	Sistema eléctrico y batería	Alarmas de energía, batería y alimentación
-7	Sistema de evacuación de gases	Menor número de fallas reportadas, pero importante para seguridad ambiental
 <img width="427" height="531" alt="image" src="https://github.com/user-attachments/assets/11ff5bbc-34a0-4ea4-9121-e1ce119a2739" />
 
 
