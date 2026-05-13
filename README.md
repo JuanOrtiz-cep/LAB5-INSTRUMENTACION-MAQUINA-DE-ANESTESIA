@@ -250,6 +250,7 @@ Isoflurano
 Desflurano
 Óxido nitroso
 
+-https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
 2. Anestésicos intravenosos
 
 Se administran por vía intravenosa para inducir o mantener la anestesia. Los más comunes son:
@@ -258,6 +259,10 @@ Propofol
 Ketamina
 Midazolam
 Fentanilo
+
+https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
+
+https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
 
 También existen la anestesia local, regional, epidural y raquídea, dependiendo del procedimiento quirúrgico.
 
@@ -283,28 +288,10 @@ Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están rel
 | Complejidad de uso         | Más sencillo de operar                      | Requiere mayor entrenamiento                        |
 | Aplicación clínica         | Hospitales y procedimientos estándar        | Quirófanos de alta complejidad y cuidados avanzados |
 
+-https://www.mindray.com/en
+-WATO EX-20/30/35 Anesthesia Machine, Service Manual".
 
-La WATO EX-35 es más avanzada
-Equipo más avanzado.
-Mayor cantidad de modos ventilatorios.
-Mejor monitoreo gráfico y análisis respiratorio.
-Pantalla más completa y funciones inteligentes.
-Puede incluir:
-ventilación más precisa,
-compensación automática,
-monitoreo avanzado de gases,
-mejores opciones de almacenamiento y configuración.
-WATO EX-20
-Modelo más básico y orientado a funciones esenciales.
-Menor cantidad de modos de ventilación.
-Monitoreo más sencillo.
-Menos automatización y herramientas avanzadas.
-
-En resumen:
-
-El EX-20 está diseñado para necesidades anestésicas estándar.
-El EX-35 ofrece funciones más avanzadas para procedimientos complejos y monitoreo más completo del paciente.
-## Análisis de Resultados Y FOTOS
+## Análisis de Resultados
 13. ANÁLISIS DE RESULTADOS
 • Análisis 1: Revise sobre las fallas que pueden presentarse en el
 funcionamiento de alguno de los subsistemas que componen la máquina de
@@ -322,6 +309,8 @@ información suministrada por el manual de operación.
 [2] Mindray, *WATO EX-20/30/35 Service Manual*, 2013.  
 [3] M. P. Dosch, *The Anesthesia Machine*, Elsevier, 2005.  
 [4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards…”, 2020.  
-
+https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
+https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
+https://www.mindray.com/en
 ---
 
