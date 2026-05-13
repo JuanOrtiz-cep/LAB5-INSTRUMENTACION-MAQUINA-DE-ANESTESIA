@@ -296,6 +296,21 @@ Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están rel
 • Análisis 1: Revise sobre las fallas que pueden presentarse en el
 funcionamiento de alguno de los subsistemas que componen la máquina de
 anestesia, así como lo que las produce.
+
+
+Subsistema	Posibles fallas	Causas principales
+Sistema de suministro de gases	Baja presión de O₂, fugas de gas, ausencia de flujo	Cilindros vacíos, conexiones defectuosas, mangueras dañadas, reguladores averiados
+Sistema de control de flujo	Flujo incorrecto de gases	Mal calibración, obstrucciones, daño en válvulas o flujómetros
+Vaporizador	Concentración incorrecta de anestésico	Fugas, llenado inadecuado, daño mecánico, mala calibración
+Sistema respiratorio	Fugas en el circuito, presión inadecuada	Tubos desconectados, sellos dañados, válvula APL defectuosa
+Absorbedor de CO₂	Reinhalación de CO₂	Cal sodada agotada, sellos deteriorados, mala instalación del recipiente
+Ventilador / fuelle	Ventilación insuficiente o excesiva	Fugas neumáticas, falla del fuelle, sensores dañados
+Sensores y monitoreo	Alarmas falsas o ausencia de alarmas	Sensor de O₂ defectuoso, fallas electrónicas, desconexiones
+Sistema eléctrico	Apagado inesperado, batería en uso	Fallas eléctricas, batería descargada, cable desconectado
+Sistema de evacuación de gases	Acumulación de gases anestésicos	Obstrucción del scavenging, presión negativa insuficiente
+<img width="505" height="713" alt="image" src="https://github.com/user-attachments/assets/45607c84-cd4b-4fba-ba94-b143796395e6" />
+
+
 • Análisis 2: Ordene cada subsistema de la máquina en función del número
 de fallas asociadas a este (de mayor a menor,) de acuerdo con la
 información suministrada por el manual de operación.
@@ -308,9 +323,12 @@ información suministrada por el manual de operación.
 [1] Mindray, *WATO EX-20/30 Operation Manual*, 2009.  
 [2] Mindray, *WATO EX-20/30/35 Service Manual*, 2013.  
 [3] M. P. Dosch, *The Anesthesia Machine*, Elsevier, 2005.  
-[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards…”, 2020.  
+[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards…”, 2020. 
+
 https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
+
 https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
+
 https://www.mindray.com/en
 ---
 
