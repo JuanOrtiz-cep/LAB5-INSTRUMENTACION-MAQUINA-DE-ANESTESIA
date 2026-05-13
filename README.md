@@ -67,8 +67,11 @@ En la máquina de anestesia WATO EX-20, el menú del ventilador se divide en 5 s
    Aquí se selecciona el modo ventilatorio que utilizará la máquina, por ejemplo:
 
    -VCV (ventilación controlada por volumen)
+   
    -PCV (ventilación controlada por presión)
+   
    -SIMV
+   
    -Manual/Espontáneo
 
 # 3. Alarmas
@@ -86,7 +89,8 @@ Imagen extraida del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual"
 
 ## e. ¿Cuál es el tipo de bomba de infusión que usa la bomba de anestesia?
 
-
+La máquina de anestesia WATO EX-20 utiliza un sistema de ventilación con accionamiento neumático y control electrónico
+Además, el sistema respiratorio trabaja mediante un mecanismo de fuelle dentro del ventilador anestésico. Durante la inspiración, el gas de accionamiento comprime el fuelle para enviar el gas al paciente. 
 
 ---
 
@@ -99,16 +103,33 @@ c. Recipiente absorbente de CO2
 d. Fuelle Componentes principales
 
 #### a. Vaporizador
-Permite la vaporización controlada de agentes anestésicos.
+Ubicación:
+Parte frontal-superior de la máquina, conectado al sistema de gases frescos.
+
+Función:
+El vaporizador convierte el anestésico líquido (como sevoflurano o isoflurano) en vapor y lo mezcla en concentraciones controladas con el flujo de gases respiratorios para administrarlo al paciente.
 
 #### b. Válvula APL
-Regula la presión del sistema respiratorio en ventilación manual.
+
+Ubicación:
+Está situada en el circuito respiratorio, generalmente cerca de la bolsa reservorio y del sistema manual de ventilación.
+
+Función:
+La válvula APL regula la presión dentro del circuito respiratorio durante la ventilación manual. Permite liberar el exceso de gases para evitar presiones peligrosas en los pulmones del paciente.
 
 #### c. Recipiente absorbente de CO₂
-Elimina el CO₂ mediante cal sodada.
+Ubicación:
+Se encuentra en la parte frontal del sistema respiratorio, normalmente debajo del circuito del paciente.
+
+Función:
+Contiene cal sodada u otro material absorbente que elimina el dióxido de carbono (CO₂) del aire exhalado por el paciente, permitiendo reutilizar parte de los gases anestésicos y evitar reinhalación de CO₂.
 
 #### d. Fuelle
-Elemento mecánico que permite la ventilación.
+Ubicación:
+Está dentro del módulo ventilador de la máquina, usualmente protegido por una carcasa transparente.
+
+Función:
+El fuelle es el componente mecánico que se expande y comprime para impulsar los gases respiratorios hacia el paciente durante la ventilación mecánica. Su movimiento permite visualizar el funcionamiento del ventilador y el volumen respiratorio administrado.
 
 AMPLIACIÓN XDDD
 ---
