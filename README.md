@@ -1,4 +1,4 @@
-# LAB5-INSTRUMENTACION-MAQUINA-DE-ANESTESIA
+# LAB5-INSTRUMENTACIÓN-MÁQUINA-DE-ANESTESIA
 # Práctica de Laboratorio: Máquina de Anestesia WATO EX-20
 
 ## Descripción
