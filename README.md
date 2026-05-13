@@ -49,21 +49,40 @@ En el manual de la WATO EX-20 los elementos específicos que se pueden identific
 
 <img width="284" height="111" alt="image" src="https://github.com/user-attachments/assets/3276d458-4270-4c1e-9917-e78f208ff032" />
 
+Imagen extraida del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
 
-
-
-FALTA RESPUESTAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ---
 
 ## d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 
-Los modos principales son tres y son:
+En la máquina de anestesia WATO EX-20, el menú del ventilador se divide en 5 submenús que permiten configurar y supervisar la ventilación del paciente. Generalmente, estos submenús son:
 
-- VCV (Ventilación controlada por volumen)  
-- PCV (Ventilación controlada por presión)  
-- Modo manual
+# 1. Parámetros de ventilación-Vent Settings
+   Permite ajustar las variables principales del ventilador, como: Volumen corriente (VT), Frecuencia respiratoria, Relacióninspiración/espiración (I:E), PEEP, Presión inspiratoria y Concentración de oxígeno.
 
-FAAAALTAAAAAAAAAAAAAAAAAAAAAAAAA RESPUESTA
+   La pausa inspiratoria normalmente se activa dentro del submenú de parámetros de ventilación o en el de funciones avanzadas, dependiendo de la configuración específica del equipo. Esta función mantiene una breve retención del aire al final de la inspiración para mejorar la distribución pulmonar y permitir mediciones como la presión plateau.
+
+
+# 2. Modos de ventilación-Vent Modes
+   Aquí se selecciona el modo ventilatorio que utilizará la máquina, por ejemplo:
+
+   -VCV (ventilación controlada por volumen)
+   -PCV (ventilación controlada por presión)
+   -SIMV
+   -Manual/Espontáneo
+
+# 3. Alarmas
+   Sirve para configurar límites de seguridad y advertencias, esta contiene alarma para alertar sobre: Presión alta o baja, Volumen minuto, Apnea, Fugas y Concentración de oxígeno.
+
+<img width="275" height="294" alt="image" src="https://github.com/user-attachments/assets/09a33142-02ba-45be-aadd-9c29ea4991cf" />
+
+Imagen extraida del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+
+# 4. Monitoreo o gráficos-Monitoring/Waveforms.
+   Muestra información de curvas de presión, flujo, volumen y los valores respiratorios medidos en tiempo real.
+
+5. Funciones avanzadas o herramientas respiratorias
+   Incluye funciones especiales relacionadas con maniobras respiratorias y pruebas del sistema.
 
 ## e. ¿Cuál es el tipo de bomba de infusión que usa la bomba de anestesia?
 
