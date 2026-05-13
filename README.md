@@ -294,6 +294,15 @@ Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están rel
 
 ## Conclusiones
 
+Durante el desarrollo del laboratorio se cumple el objetivo de familiarizarse con los componentes, funcionamiento y mantenimiento de la máquina de anestesia WATO EX-20. A través del análisis del manual y de las diferentes preguntas planteadas, fue posible identificar los principales subsistemas del equipo, comprender su función y reconocer la importancia de las pruebas de verificación y mantenimiento preventivo.
+
+Se identificaron componentes fundamentales como el vaporizador, la válvula APL, el recipiente absorbente de CO₂ y el fuelle del ventilador, entendiendo el papel que cumple cada uno dentro del sistema respiratorio y de administración anestésica. Además, se analizaron las alarmas, pruebas de fugas, monitoreo de presión y funcionamiento del sensor de O₂, lo que permitió comprender cómo la máquina garantiza la seguridad del paciente durante un procedimiento quirúrgico.
+
+También se evidenció que los sistemas respiratorio, de ventilación y de suministro de gases son los más críticos, ya que concentran la mayor cantidad de posibles fallas. Muchas de estas pueden originarse por desgaste de componentes, fugas, mala calibración o falta de mantenimiento. Por esta razón, las labores preventivas, las inspecciones periódicas y las pruebas operacionales son indispensables para asegurar un funcionamiento correcto y reducir riesgos clínicos, así como conocer y familiarizarse con el manual, tanto este como de cualquier dispositivo o equipo médico.
+
+Finalmente, respecto a la comparación entre WATO EX-20 y WATO EX-35, ambos equipos cumplen adecuadamente las funciones esenciales de anestesia y ventilación, pero están orientados a diferentes niveles de complejidad clínica y tecnológica. El modelo EX-20 está diseñado para procedimientos anestésicos generales y ofrece funciones básicas pero suficientes para la mayoría de cirugías convencionales. Se caracteriza por ser más sencillo de operar, tener una interfaz más simple y cubrir adecuadamente las necesidades estándar de ventilación y monitoreo. Por otro lado, el EX-35 incorpora tecnologías más avanzadas, una mayor cantidad de modos ventilatorios, monitoreo más completo y mejores herramientas de seguridad clínica. Entre sus ventajas destacan la pantalla táctil de 10.4”, el sistema inteligente de alarmas, compensación automática, monitoreo avanzado de gases anestésicos y modos ventilatorios más sofisticados. 
+
+
 
 ## Bibliografía (IEEE)
 
@@ -306,6 +315,11 @@ https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
 
 https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
 
-https://www.mindray.com/en
+[]: https://www.mindray.com/latam/products/anesthesia/wato-ex-20?utm_source=chatgpt.com "Máquinas de anestesia: WATO EX-20 - Mindray"
+
+[]: https://www.mindray.com/en_gb/products/anesthesia/wato-ex-35.html?utm_source=chatgpt.com "WATO EX-35 | Anaesthesia System - Mindray"
+
+[]: https://www.mindray.com/de/products/anesthesia/wato-ex-35?utm_source=chatgpt.com "WATO EX-35 - Anästhesiegerät - Mindray Deutschland"
+
 ---
 
