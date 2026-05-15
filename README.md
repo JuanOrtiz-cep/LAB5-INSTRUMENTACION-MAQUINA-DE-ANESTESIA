@@ -103,14 +103,21 @@ Además, el sistema respiratorio trabaja mediante un mecanismo de fuelle dentro 
 
 ### 1.Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
 a. Vaporizador
+
 b. Válvula APL
+
 c. Recipiente absorbente de CO2
+
 d. Fuelle Componentes principales
 
 #### a. Vaporizador
 Ubicación:
 Parte frontal-superior de la máquina, conectado al sistema de gases frescos.
 
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e2130661-3dc3-4f37-8d94-decc68626b28" />
+
+Imagen extraída de:
+https://image.made-in-china.com/202f0j00SAihPReqZpkG/Anesthesia-Vaporizer-Halothane-Sevoflurane-Enflurane-Isoflurane-Vaporizer.webp
 Función:
 El vaporizador convierte el anestésico líquido (como sevoflurano o isoflurano) en vapor y lo mezcla en concentraciones controladas con el flujo de gases respiratorios para administrarlo al paciente.
 
