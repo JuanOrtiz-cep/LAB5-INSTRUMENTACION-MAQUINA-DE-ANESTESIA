@@ -20,6 +20,11 @@ anestesia.
 • Reconocer la relevancia de las labores de mantenimiento aplicadas a una
 máquina de anestesia.
 
+<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/e7a5dcf5-9d8f-4af4-97f2-08df1c31a6e7" />
+Imagen propia
+
+
+
 ## PARTE A
 En utilización del service manual de la máquina de anestesia WATO EX-20 se responden las siguientes preguntas:
 
@@ -138,8 +143,9 @@ Está dentro del módulo ventilador de la máquina, usualmente protegido por una
 
 ---
 
-<img width="196" height="196" alt="image" src="https://github.com/user-attachments/assets/2b2c84f6-db85-400f-b2cd-92cb312df4bb" />
-Imagen extraída de https://www.elproveedordelmedico.com.mx/productos-adicionales/120-fuelle-para-maquina-de-anestesia-aespire-datex-ohmeda.html
+<img width="3120" height="4160" alt="image" src="https://github.com/user-attachments/assets/526aabb6-2bd5-4671-9fb9-f60809a8350e" />
+
+Imagen propia
 
 
 ---
