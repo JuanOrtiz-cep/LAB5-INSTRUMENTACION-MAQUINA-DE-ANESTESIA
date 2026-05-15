@@ -130,7 +130,7 @@ La válvula APL regula la presión dentro del circuito respiratorio durante la v
 Ubicación:
 Se encuentra en la parte frontal del sistema respiratorio, normalmente debajo del circuito del paciente.
 
-<img width="788" height="788" alt="image" src="https://github.com/user-attachments/assets/79e9d3db-bb7d-4601-a9a2-8731da930df1" />
+<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/79e9d3db-bb7d-4601-a9a2-8731da930df1" />
 
 Imagen extraída de https://www.medicalexpo.es/prod/shandong-dolphinmed-technology/product-298715-1037223.html?utm_source=chatgpt.com
 
@@ -143,7 +143,7 @@ Está dentro del módulo ventilador de la máquina, usualmente protegido por una
 
 ---
 
-<img width="3120" height="4160" alt="image" src="https://github.com/user-attachments/assets/526aabb6-2bd5-4671-9fb9-f60809a8350e" />
+<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/526aabb6-2bd5-4671-9fb9-f60809a8350e" />
 
 Imagen propia
 
@@ -191,7 +191,7 @@ Imagen propia
 
 ---
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/5da44c6d-6bef-41d0-944a-0715f6f884ca" />
+<img width="379" height="379" alt="image" src="https://github.com/user-attachments/assets/5da44c6d-6bef-41d0-944a-0715f6f884ca" />
 Imagen extraída de https://www.hersill.com/wp-content/uploads/2024/10/Canister-absorbente-CO2.jpg
 
 
