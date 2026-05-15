@@ -2,7 +2,9 @@
 # Práctica de Laboratorio: Máquina de Anestesia WATO EX-20
 
 Catalina Martínez Franco
+
 Juan Esteban Ortiz 
+
 Joseph Rodríguez
 
 ## Descripción
