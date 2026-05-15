@@ -29,11 +29,11 @@ Los tipos de anestesia comúnmente utilizados son:
 
 - Anestesia general: Produce pérdida total de la conciencia. En el contexto de la WATO EX-20, se administra mediante agentes inhalatorios controlados por el sistema de respiración.
 - Anestesia regional: Bloquea la sensibilidad en una región específica del cuerpo. Puede requerir soporte ventilatorio proporcionado por la máquina.
-- Anestesia local: Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.
+- Anestesia local: Actúa en una zona específica sin afectar la conciencia. Su relación con la máquina es limitada.[3]
 ---
 ## b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante sistema de alta presión?
 
-La máquina WATO EX-20 trabaja con Oxígeno (O₂), el cual es indispensable para la respiración del paciente, también utiliza Óxido nitroso (N₂O) que proporciona efecto analgésico y anestésico y el aire medicinal que permite ajustar la mezcla de gases de forma segura.  
+La máquina WATO EX-20 trabaja con Oxígeno (O₂), el cual es indispensable para la respiración del paciente, también utiliza Óxido nitroso (N₂O) que proporciona efecto analgésico y anestésico y el aire medicinal que permite ajustar la mezcla de gases de forma segura[1] [2].  
 Por medio de sistema de alta presión se pueden incorporar el oxígeno y óxido nitroso.
 
 ---
@@ -49,7 +49,7 @@ En el manual de la WATO EX-20 los elementos específicos que se pueden identific
 
 <img width="284" height="111" alt="image" src="https://github.com/user-attachments/assets/3276d458-4270-4c1e-9917-e78f208ff032" />
 
-Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".
+Imagen extraída del Manual "WATO EX-20/30/35 Anesthesia Machine, Service Manual".[1] [2]
 
 ---
 
@@ -135,6 +135,9 @@ Contiene cal sodada u otro material absorbente que elimina el dióxido de carbon
 #### d. Fuelle
 Ubicación:
 Está dentro del módulo ventilador de la máquina, usualmente protegido por una carcasa transparente.
+
+<img width="196" height="196" alt="image" src="https://github.com/user-attachments/assets/2b2c84f6-db85-400f-b2cd-92cb312df4bb" />
+Imagen extraída de https://www.elproveedordelmedico.com.mx/productos-adicionales/120-fuelle-para-maquina-de-anestesia-aespire-datex-ohmeda.html
 
 Función:
 El fuelle es el componente mecánico que se expande y comprime para impulsar los gases respiratorios hacia el paciente durante la ventilación mecánica. Su movimiento permite visualizar el funcionamiento del ventilador y el volumen respiratorio administrado.
@@ -243,7 +246,7 @@ El sistema de presión negativa en una máquina de anestesia WATO EX-20 tiene co
 
 Los anestésicos más utilizados en cirugía se dividen principalmente en dos grupos:
 
-1. Anestésicos inhalatorios: estos son administrados mediante la máquina de anestesia y el sistema respiratorio, se utilizan para mantener la anestesia durante la cirugía. Los más usados son:
+1. Anestésicos inhalatorios: estos son administrados mediante la máquina de anestesia y el sistema respiratorio, se utilizan para mantener la anestesia durante la cirugía. Los más usados son[5][6]:
 
 Sevoflurano
 Isoflurano
@@ -271,7 +274,7 @@ También existen la anestesia local, regional, epidural y raquídea, dependiendo
 
 • Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
 
-Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están relacionadas con las capacidades de monitoreo, ventilación y funciones avanzadas.
+Las principales diferencias entre los modelos WATO EX-35 y WATO EX-20 están relacionadas con las capacidades de monitoreo, ventilación y funciones avanzadas[8].
 
 <img width="505" height="707" alt="image" src="https://github.com/user-attachments/assets/7e38b4fb-6055-4198-b2ab-4c63f0c04a10" />
 
@@ -306,20 +309,18 @@ Finalmente, respecto a la comparación entre WATO EX-20 y WATO EX-35, ambos equi
 
 ## Bibliografía (IEEE)
 
-[1] Mindray, *WATO EX-20/30 Operation Manual*, 2009.  
-[2] Mindray, *WATO EX-20/30/35 Service Manual*, 2013.  
-[3] M. P. Dosch, *The Anesthesia Machine*, Elsevier, 2005.  
-[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards…”, 2020. 
+[1] :contentReference[oaicite:0]{index=0}, *WATO EX-20/30 Operation Manual*. Shenzhen, China: Mindray, 2009.
 
-https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
+[2] :contentReference[oaicite:1]{index=1}, *WATO EX-20/30/35 Service Manual*. Shenzhen, China: Mindray, 2013.
 
-https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
+[3] M. P. Dosch, *The Anesthesia Machine: Principles and Applications*, 2nd ed. Philadelphia, PA, USA: Elsevier, 2005.
 
-[]: https://www.mindray.com/latam/products/anesthesia/wato-ex-20?utm_source=chatgpt.com "Máquinas de anestesia: WATO EX-20 - Mindray"
+[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards and safety,” en *Anesthesia Equipment: Principles and Applications*, 3rd ed., Elsevier, 2020.
 
-[]: https://www.mindray.com/en_gb/products/anesthesia/wato-ex-35.html?utm_source=chatgpt.com "WATO EX-35 | Anaesthesia System - Mindray"
+[5] UCLA Health, “Types of Anesthesia,” [En línea]. Disponible en: https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
 
-[]: https://www.mindray.com/de/products/anesthesia/wato-ex-35?utm_source=chatgpt.com "WATO EX-35 - Anästhesiegerät - Mindray Deutschland"
+[6] Npunto, “Anestesia y sus tipos: desde su origen hasta la actualidad,” [En línea]. Disponible en: https://www.npunto.es/revista/72/anestesia-y-sus-tipos-desde-su-origen-hasta-la-actualidad
 
----
+[7] :contentReference[oaicite:2]{index=2}, “WATO EX-20 Anesthesia Machine,” [En línea]. Disponible en: https://www.mindray.com/latam/products/anesthesia/wato-ex-20
 
+[8] :contentReference[oaicite:3]{index=3}, “WATO EX-35 Anesthesia System,” [En línea]. Disponible en: https://www.mindray.com/en_gb/products/anesthesia/wato-ex-35.html
