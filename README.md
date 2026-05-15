@@ -171,6 +171,12 @@ En dicho caso inmediatamente se debe solucionar el problema.
 ### 3.¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
 
 Debe cambiarse cuando aumenta el CO₂ ó cuando satura el material. 
+<img width="292" height="271" alt="image" src="https://github.com/user-attachments/assets/2130a298-a2d3-4d06-b6ff-a3974b73deb0" />
+Imagen propia
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/5da44c6d-6bef-41d0-944a-0715f6f884ca" />
+extraida de https://www.hersill.com/wp-content/uploads/2024/10/Canister-absorbente-CO2.jpg
+
 
 El recipiente absorbente de CO₂ de la máquina de anestesia WATO EX-20 debe reemplazarse cuando el material absorbente, o sea la cal sodada, se agote o pierda efectividad. Se recomienda revisarlo antes de cada procedimiento y durante el uso continuo de la máquina. Las señales importantes son:
 * Cambio de color del absorbente según el indicador químico.
