@@ -1,9 +1,13 @@
 # LAB5-INSTRUMENTACIÓN-MÁQUINA-DE-ANESTESIA
 # Práctica de Laboratorio: Máquina de Anestesia WATO EX-20
 
+Catalina Martínez Franco
+Juan Esteban Ortiz 
+Joseph Rodríguez
+
 ## Descripción
 
-En la siguiente práctica se desarrolla con base en el manual de operación y servicio de la máquina de anestesia WATO EX-20 (Mindray). El objetivo es comprender su funcionamiento, identificar sus subsistemas, analizar fallas comunes y documentar el proceso mediante una herramienta colaborativa.
+En la siguiente práctica se desarrolla con base en el manual de operación y servicio de la máquina de anestesia WATO EX-20 de Mindray. El objetivo es comprender su funcionamiento, identificar sus subsistemas, analizar fallas comunes y documentar el proceso mediante una herramienta colaborativa.
 
 
 ## OBJETIVOS:
@@ -118,6 +122,7 @@ Parte frontal-superior de la máquina, conectado al sistema de gases frescos.
 
 Imagen extraída de:
 https://image.made-in-china.com/202f0j00SAihPReqZpkG/Anesthesia-Vaporizer-Halothane-Sevoflurane-Enflurane-Isoflurane-Vaporizer.webp
+
 Función:
 El vaporizador convierte el anestésico líquido (como sevoflurano o isoflurano) en vapor y lo mezcla en concentraciones controladas con el flujo de gases respiratorios para administrarlo al paciente.
 
